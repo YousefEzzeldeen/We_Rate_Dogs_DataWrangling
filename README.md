@@ -16,6 +16,6 @@ And they’re added to the [InsightsReport](https://github.com/YousefEzzeldeen/W
 
 4-	Additional Information:
 
--  To get a Twitter developer account, check this link: Twitter Developer
-- For more info about image prediction, check this link: Image Prediction 
+-  To get a Twitter developer account, check this link: [Twitter Developer](https://x.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJyZWRpcmVjdF9hZnRlcl9sb2dpbiI6Imh0dHBzOi8vZGV2ZWxvcGVyLnR3aXR0ZXIuY29tL2VuL2FjY291bnQvP214PTIifQ%3D%3D%22%7D)
+- For more info about image prediction, check this link: [Image Prediction](https://stackoverflow.com/questions/43469281/how-to-predict-input-image-using-trained-model-in-keras) 
 
