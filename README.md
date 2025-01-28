@@ -12,7 +12,7 @@ The details of the data wrangling process are added to the [wrangling report](ht
 There are two main categories of findings:
 -  Dog ratings insights
 - Account Insights 
-And they’re added to the Wrangling Report
+And they’re added to the [InsightsReport](https://github.com/YousefEzzeldeen/We_Rate_Dogs_DataWrangling/blob/master/act_report.pdf)
 
 4-	Additional Information:
 
