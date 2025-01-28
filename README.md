@@ -6,7 +6,7 @@ This project uses the data of the Twitter account (We Rate Dogs) to gain insight
 We used multiple data-gathering techniques like CSV files and Twitter API.
 
 2-	Contents:
-The details of the data wrangling process are added to the [wrangling report] (https://github.com/YousefEzzeldeen/We_Rate_Dogs_DataWrangling/blob/master/wrangle_report.pdf)
+The details of the data wrangling process are added to the [wrangling report](https://github.com/YousefEzzeldeen/We_Rate_Dogs_DataWrangling/blob/master/wrangle_report.pdf)
 
 3-	Data Findings:
 There are two main categories of findings:
